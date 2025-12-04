@@ -3,6 +3,6 @@
 
 
 ### Sections
-1- user  
-2- courses  
-3- reviews
+- user  
+- courses  
+- reviews
